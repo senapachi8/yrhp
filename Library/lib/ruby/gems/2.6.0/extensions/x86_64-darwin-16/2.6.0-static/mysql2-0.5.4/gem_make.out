@@ -1,0 +1,8 @@
+current directory: /Applications/MAMP/Library/lib/ruby/gems/2.6.0/gems/mysql2-0.5.4/ext/mysql2
+/Applications/MAMP/Library/bin/ruby -I /Applications/MAMP/Library/lib/ruby/2.6.0 -r ./siteconf20221208-22761-1yylrw.rb extconf.rb --with-mysql-config\=/Applications/MAMP/Library/bin/mysql_config --with-mysql-lib\=/Applications/MAMP/Library/lib
+current directory: /Applications/MAMP/Library/lib/ruby/gems/2.6.0/gems/mysql2-0.5.4/ext/mysql2
+make "DESTDIR=" clean
+current directory: /Applications/MAMP/Library/lib/ruby/gems/2.6.0/gems/mysql2-0.5.4/ext/mysql2
+make "DESTDIR="
+current directory: /Applications/MAMP/Library/lib/ruby/gems/2.6.0/gems/mysql2-0.5.4/ext/mysql2
+make "DESTDIR=" install
